@@ -1,10 +1,12 @@
-## Hi there 👋
+## ¡Holaa! Soy Miguel Angel👋
 
 <!--
 **Miguelmtnzz/Miguelmtnzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+-- 🌍 **Ubicación:** Cartagena, Murcia, España
+- 📫 **Contacto:**: https://www.linkedin.com/in/miguel-angel-molina-martinez-07a1a2349/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
