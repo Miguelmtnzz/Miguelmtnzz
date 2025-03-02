@@ -1,10 +1,6 @@
 <h2 align="left">Hi 👋!  I'm Miguel Angel</h2>
 
-###
-
 <p align="left">ASIR student (Administration of Networked Computer Systems) passionate about technology, hardworking, and always eager to learn.</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -20,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-angel-molina-martinez-07a1a2349/" target="_blank">
@@ -37,7 +32,6 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
@@ -46,19 +40,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelmtnzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://www.gifss.com/profesiones/informaticos/informatico-12.gif"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/miguelmtnzz/miguelmtnzz/output/snake.svg" alt="Snake animation" />
 
-###
+<div align="left">
+</div>
+
+<img src="https://raw.githubusercontent.com/miguelmtnzz/miguelmtnzz/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
 </div>
