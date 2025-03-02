@@ -46,14 +46,3 @@
   <img height="200" src="https://www.gifss.com/profesiones/informaticos/informatico-12.gif"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/miguelmtnzz/miguelmtnzz/output/snake.svg" alt="Snake animation" />
-
-<div align="left">
-</div>
-
-<img src="https://raw.githubusercontent.com/miguelmtnzz/miguelmtnzz/output/snake.svg" alt="Snake animation" />
-
-<div align="left">
-</div>
-
-###
