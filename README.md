@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋!  I'm Miguel Angel</h2>
 
-<p align="left">ASIR student (Administration of Networked Computer Systems) passionate about technology, hardworking, and always eager to learn.</p>
+<p align="left">ASIR student (Administration of Networked Computer Systems) 
+  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
