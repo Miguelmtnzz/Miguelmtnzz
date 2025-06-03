@@ -1,49 +1,83 @@
-<h2 align="left">Hi 👋!  I'm Miguel Angel</h2>
-
-<p align="left">ASIR student (Administration of Networked Computer Systems) 
+<div align="center">
+<img src="https://www.ionos.es/digitalguide/fileadmin/_processed_/5/9/csm_ethernet-t_af3ec97627.webp" align="center" style="width: 100%" />
+</div>  
   
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+### <div align="center">Bienvenid@!! Mi nombre es Miguel Angel</div>  
+  
+
+🎓 Me encuentro cursando un Grado Superior de [ ASIR ( Administración de Sistemas Informáticos en Red )](https://llegarasalto.com/guiafp/ciclos/IFC-321.html) en IES Bohío, con formación previa en Bachillerato de Ciencias Sociales. Me apasiona la tecnología, la administración de sistemas y la programación, y planeo continuar mis estudios...
+
+🔧 Actualmente estoy desarrollando habilidades en:
+
+- Sistemas operativos: Administración y configuración en Linux, Ubuntu Server, Windows Server y Windows 10/11
+
+- Redes: Conocimientos en TCP/IP, DNS, DHCP, y enrutamiento básico
+
+ - Virtualización: Experiencia práctica con VMware Workstation, VirtualBox y conocimientos iniciales de Proxmox
+
+- Bases de datos: Gestión básica y consultas en MySQL 
+
+- Herramientas ofimáticas: Dominio de Microsoft Word, Excel y otras herramientas básicas de productividad
+
+- Habilidades personales: Buenas capacidades de comunicación, trabajo en equipo, resolución de problemas y adaptabilidad
+  
+  
+
+Contacto: ma.molinamartinezz@gmail.com
+  
+  
+
+<br/>  
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/miguel-angel-molina-martinez-07a1a2349/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="miguelangelmolinamtnz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="migueelmtnz_13081" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/migueelmtnz?igsh=NG9qYnh2b2U4NXp1&utm_source=qr " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelmtnzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelmtnzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</td><td valign="top" width="33%">
 
-<br clear="both">
 
-<div align="center">
-  <img height="200" src="https://www.gifss.com/profesiones/informaticos/informatico-12.gif"  />
-</div>
 
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+  
+
+<br/>  
+
+
+## Github Stats  
+  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
