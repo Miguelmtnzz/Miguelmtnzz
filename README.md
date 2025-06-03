@@ -1,5 +1,5 @@
 <div align="center">
-<img src="C:\Users\User\Pictures\Screenshots\Captura de pantalla 2025-06-04 002148.png" />
+<img src="(https://postimg.cc/K1nb7CCt)" />
 </div>
 
 
