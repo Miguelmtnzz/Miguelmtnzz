@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.ionos.es/digitalguide/fileadmin/_processed_/5/9/csm_ethernet-t_af3ec97627.webp" align="center" style="width: 100%" />
+<img src="C:\Users\User\Pictures\Screenshots\Captura de pantalla 2025-06-04 002148.png" />
 </div>  
   
 
