@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://postimg.cc/K1nb7CCt)" />
+<img [![Captura-de-pantalla-2025-06-04-005148.png](https://i.postimg.cc/qvF7rTLD/Captura-de-pantalla-2025-06-04-005148.png)](https://postimg.cc/K1nb7CCt) />
 </div>
 
 
