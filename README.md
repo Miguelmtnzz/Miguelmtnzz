@@ -28,9 +28,9 @@
 </ul>
 
 <div align="center">
-  <a href="mailto:ma.molinamartinezz@gmail.com" style="text-decoration: none;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ma.molinamartinezz@gmail.com" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007ACC; color: white; border: none; border-radius: 8px; cursor: pointer; transition: 0.3s;">
-      📩 Contactar por Email
+      📩 Contactar por Gmail
     </button>
   </a>
 </div>
