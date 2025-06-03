@@ -1,24 +1,29 @@
 <div align="center">
-  <img src="https://i.postimg.cc/qvF7rTLD/Captura-de-pantalla-2025-06-04-005148.png" alt="Captura de pantalla" />
+  <a href="https://postimg.cc/ykFMGtyj" target="_blank">
+    <img src="https://i.postimg.cc/9FScDj46/Captura-de-pantalla-2025-06-04-005148.png" alt="Miguel Ángel" width="600">
+  </a>
 </div>
 
-<h3 align="center">Bienvenid@!! Mi nombre es Miguel Ángel</h3>
+<h3 align="center">¡Bienvenid@! Mi nombre es Miguel Ángel</h3>
 
-<p>🎓 Me encuentro cursando un Grado Superior de 
-<a href="https://llegarasalto.com/guiafp/ciclos/IFC-321.html" target="_blank">
-  ASIR (Administración de Sistemas Informáticos en Red)
-</a> en IES Bohío, con formación previa en Bachillerato de Ciencias Sociales. 
-Me apasiona la tecnología, la administración de sistemas y la programación, y planeo continuar mis estudios...</p>
+<p align="center">
+  🎓 Estudiante del Grado Superior de 
+  <a href="https://llegarasalto.com/guiafp/ciclos/IFC-321.html" target="_blank">
+    ASIR
+  </a> 
+  en IES Bohío, con formación previa en Bachillerato de Ciencias Sociales. 
+  Apasionado por la tecnología, la administración de sistemas y la programación. Planeo seguir formándome en el sector.
+</p>
 
-<p>🔧 Actualmente estoy desarrollando habilidades en:</p>
+<h4>🔧 Habilidades en desarrollo:</h4>
 
 <ul>
-  <li>Sistemas operativos: Administración y configuración en Linux, Ubuntu Server, Windows Server y Windows 10/11</li>
-  <li>Redes: Conocimientos en TCP/IP, DNS, DHCP, y enrutamiento básico</li>
-  <li>Virtualización: Experiencia práctica con VMware Workstation, VirtualBox y conocimientos iniciales de Proxmox</li>
-  <li>Bases de datos: Gestión básica y consultas en MySQL</li>
-  <li>Herramientas ofimáticas: Dominio de Microsoft Word, Excel y otras herramientas básicas de productividad</li>
-  <li>Habilidades personales: Buenas capacidades de comunicación, trabajo en equipo, resolución de problemas y adaptabilidad</li>
+  <li><strong>Sistemas operativos:</strong> Linux, Ubuntu Server, Windows Server, Windows 10/11</li>
+  <li><strong>Redes:</strong> TCP/IP, DNS, DHCP, enrutamiento básico</li>
+  <li><strong>Virtualización:</strong> VMware Workstation, VirtualBox, conocimientos iniciales de Proxmox</li>
+  <li><strong>Bases de datos:</strong> MySQL (gestión básica y consultas)</li>
+  <li><strong>Ofimática:</strong> Microsoft Word, Excel y herramientas de productividad</li>
+  <li><strong>Habilidades personales:</strong> Comunicación, trabajo en equipo, resolución de problemas, adaptabilidad</li>
 </ul>
 
-<p><strong>Contacto:</strong> ma.molinamartinezz@gmail.com</p>
+<p><strong>📩 Contacto:</strong> <a href="mailto:ma.molinamartinezz@gmail.com">ma.molinamartinezz@gmail.com</a></p>
