@@ -36,9 +36,9 @@ Me apasiona la tecnología, la administración de sistemas y la programación, y
 <hr>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ma.molinamartinezz@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=migueelmolinamartinez@gmail.com" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007ACC; color: white; border: none; border-radius: 8px; cursor: pointer; transition: 0.3s;">
-      📩 Contactar por Gmail
+      📩 Contactate conmigo por Gmail
     </button>
   </a>
 </div>
